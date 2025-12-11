@@ -6,3 +6,7 @@ CMD [ "njinx", "-g", "daemon off;" ]
 
 ## build
 ## docker inspect expose:1.0.0
+
+# ## "Config": {
+#             "ExposedPorts": {
+#                 "80/tcp": {}
